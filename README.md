@@ -1,1 +1,1 @@
-Let's learn Github!
+Let's learn Github and commit!
